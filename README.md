@@ -1,6 +1,6 @@
 # cs383-sp22-jquerylists
 
-This is an example from CS 383 from the Spring 2022 semester manipulate lists with jQuery/AJAX.
+This is an example from CS 383 from the Spring 2022 semester to manipulate lists with jQuery/AJAX.
 
 Note that the `mysql.sql` file must be edited with the information for your database.
 
